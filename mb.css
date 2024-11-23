@@ -1,0 +1,77 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(images/wong-zihoo-kRyJPPsLgbU-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 200vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.menu{
+    color: white;
+}
+
+.btn-one{
+    font-size: 30px;
+    font-weight: 700;
+    left: 16px;
+    line-height: 60px;
+}
+
+.sidebar-menu
+
+.h1{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#inp{
+    height: 50px;
+    width: 600px;
+    border-radius: 1.5vh;
+    background-color: white;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+#btn1{
+    margin-left: 100px;
+    height: 30px;
+    width: 100px;
+    border-radius: 1vh;
+    background-color: white;
+}
+
+#btn2{
+    margin-left: 200PX;
+    height: 30px;
+    width: 100px;
+    border-radius: 1vh;
+    background-color: white;
+}
+
+
+
+/* .login{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+
+/* 
+.navbar{
+    background-color: black;
+    height: 60px;
+} */
